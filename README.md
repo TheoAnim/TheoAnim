@@ -1,4 +1,4 @@
-## Hi there 👋
+## He0lo World 👋 
 
 <!--
 **TheoAnim/TheoAnim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Learn more about me here [Theophilus Anim Bediako](https://theoanim.github.io/)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TheoAnim)](https://git.io/streak-stats)
