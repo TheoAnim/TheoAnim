@@ -45,7 +45,7 @@ Solutions to Case Study 1 of Danny's SQL Challenge, demonstrating strong databas
 
 ## ✍️ Blog & Articles
 
-📖 Read my latest posts: theoanim.github.io/blog
+📖 Read my latest posts: [theoanim.github.io/blog](https://theoanim.github.io/blogs)
 
 ## 🌍 Beyond Research
 
