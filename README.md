@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I'm a PhD student in **Statistical Science** at [Baylor University](https://www.baylor.edu/), Waco, Texas. My research focuses on **Bayesian inference** , **clinical trials** and **machine learning tools**
+I'm a PhD student in **Statistical Science** at [Baylor University](https://www.baylor.edu/), Waco, Texas. My research focuses on **Bayesian inference** , **clinical trials** and **statistical genomics**
 
 🌐 **Personal Website:** [theoanim.github.io](https://theoanim.github.io/)
 
