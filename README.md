@@ -4,8 +4,6 @@
 
 I'm a PhD student in **Statistical Science** at [Baylor University](https://www.baylor.edu/), Waco, Texas. My research focuses on **Bayesian inference** , **clinical trials** and **statistical genomics**
 
-🌐 **Personal Website:** [theoanim.github.io](https://theoanim.github.io/)
-
 ## 🔬 Current Research
 
 I'm currently working with [Professor James Stamey](https://statistics.artsandsciences.baylor.edu/person/dr-james-d-stamey) and Dr. Jackson Barth to develop Bayesian model selection method for **under-reported and zero-inflated count data**
@@ -57,8 +55,7 @@ When I'm not anything Statistics, you'll find me:
 
 I'm always interested in collaborating on statistical research, consulting projects, or building meaningful connections.
 
-- **Website:** [theoanim.github.io](https://theoanim.github.io/)
-- **Location:** Waco, Texas
+🌐  **Website:** [theoanim.github.io](https://theoanim.github.io/)
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TheoAnim)](https://git.io/streak-stats)
