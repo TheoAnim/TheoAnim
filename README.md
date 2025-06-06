@@ -2,11 +2,7 @@
 
 ## 🎓 About Me
 
-I'm a PhD student in **Statistical Science** at [Baylor University](https://www.baylor.edu/), Waco, Texas. My research focuses on **Bayesian inference** , **clinical trials** and **statistical genomics**
-
-## 🔬 Current Research
-
-I'm currently working with [Professor James Stamey](https://statistics.artsandsciences.baylor.edu/person/dr-james-d-stamey) and Dr. Jackson Barth to develop Bayesian model selection method for **under-reported and zero-inflated count data**
+I'm a PhD student in **Statistical Science** at [Baylor University](https://www.baylor.edu/), Waco, Texas. My research focuses on **Bayesian inference** , **clinical trials** and **statistical genomics**. I am working with [Professor James Stamey](https://statistics.artsandsciences.baylor.edu/person/dr-james-d-stamey) and Dr. Jackson Barth to develop Bayesian model selection methods for **under-reported and zero-inflated count data**
 
 <!--## 🏆 Achievements
 
