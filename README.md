@@ -43,7 +43,7 @@ Solutions to Case Study 1 of Danny's SQL Challenge, demonstrating strong databas
 
 ## 🌍 Beyond Research
 
-When I'm not anything Statistics, you'll find me:
+When I'm not doing anything Statistics, you'll find me:
 - 📸 Taking nature photographs along the Brazos River
 - ⚽ Playing soccer
 
