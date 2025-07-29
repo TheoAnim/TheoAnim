@@ -1,6 +1,6 @@
 # Hi there, I'm Theophilus Anim Bediako! 👋
 
-## 🎓 About Me
+##  About Me
 
 I'm a PhD student in **Statistical Science** at [Baylor University](https://www.baylor.edu/), Waco, Texas. My research focuses on **Bayesian inference** , **clinical trials** and **statistical genomics**. I am working with [Professor James Stamey](https://statistics.artsandsciences.baylor.edu/person/dr-james-d-stamey) and Dr. Jackson Barth to develop Bayesian model selection methods for **under-reported and zero-inflated count data**
 
@@ -18,15 +18,15 @@ I'm a PhD student in **Statistical Science** at [Baylor University](https://www.
 - **Data Science:** Statistical Modeling, Data Analysis
 -->
 
-## 📚 Featured Projects
+##  Featured Projects
 
-### 🫘 [Dry Beans Classification](https://github.com/TheoAnim/Dry-Beans-Classification)
+### [Dry Beans Classification](https://github.com/TheoAnim/Dry-Beans-Classification)
 Classification and price prediction of dry beans using various machine learning methods. This project demonstrates the application of advanced clustering and classification methods to agricultural data.
 
 ### 🗃️ [Danny's SQL Challenge](https://github.com/TheoAnim/Danny-s-SQL-Challenge)
 Solutions to Case Study 1 of Danny's SQL Challenge, demonstrating strong database querying and data manipulation skills.
 
-## 🌱 Academic Journey
+## Academic Journey
 
 **Current:** PhD in Statistical Science, Baylor University (2023-Present)
 - Specializing in Bayesian methods for under-reported count data 
@@ -37,17 +37,17 @@ Solutions to Case Study 1 of Danny's SQL Challenge, demonstrating strong databas
 - Supervised by [Professor Semhar Michael](https://sites.google.com/view/semharmichael/home)
 - Focus on machine learning and statistical clustering methods
 
-## ✍️ Blog & Articles
+## Blog & Articles
 
 📖 Read my latest posts: [theoanim.github.io/blog](https://theoanim.github.io/blogs)
 
-## 🌍 Beyond Research
+## Beyond Research
 
 When I'm not doing anything Statistics, you'll find me:
 - 📸 Taking nature photographs along the Brazos River
 - ⚽ Playing soccer
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm always interested in collaborating on statistical research, consulting projects, or building meaningful connections.
 
