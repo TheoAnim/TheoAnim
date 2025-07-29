@@ -1,4 +1,4 @@
-# Hi there, I'm Theophilus Anim Bediako! 👋
+# Hi there, I'm Theophilus Anim Bediako! 
 
 ##  About Me
 
@@ -23,7 +23,7 @@ I'm a PhD student in **Statistical Science** at [Baylor University](https://www.
 ### [Dry Beans Classification](https://github.com/TheoAnim/Dry-Beans-Classification)
 Classification and price prediction of dry beans using various machine learning methods. This project demonstrates the application of advanced clustering and classification methods to agricultural data.
 
-### 🗃️ [Danny's SQL Challenge](https://github.com/TheoAnim/Danny-s-SQL-Challenge)
+###  [Danny's SQL Challenge](https://github.com/TheoAnim/Danny-s-SQL-Challenge)
 Solutions to Case Study 1 of Danny's SQL Challenge, demonstrating strong database querying and data manipulation skills.
 
 ## Academic Journey
