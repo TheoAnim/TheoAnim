@@ -39,19 +39,19 @@ Solutions to Case Study 1 of Danny's SQL Challenge, demonstrating strong databas
 
 ## Blog & Articles
 
-📖 Read my latest posts: [theoanim.github.io/blog](https://theoanim.github.io/blogs)
+Read my latest posts: [theoanim.github.io/blog](https://theoanim.github.io/blogs)
 
 ## Beyond Research
 
 When I'm not doing anything Statistics, you'll find me:
-- 📸 Taking nature photographs along the Brazos River
-- ⚽ Playing soccer
+- Taking nature photographs along the Brazos River
+- Playing soccer
 
 ## Let's Connect!
 
 I'm always interested in collaborating on statistical research, consulting projects, or building meaningful connections.
 
-🌐  **Website:** [theoanim.github.io](https://theoanim.github.io/)
+**Website:** [theoanim.github.io](https://theoanim.github.io/)
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TheoAnim)](https://git.io/streak-stats)
