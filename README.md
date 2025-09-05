@@ -1,4 +1,4 @@
-# Hi there, I'm Theophilus Anim Bediako! 
+Hi there, I'm Theophilus Anim Bediako! 
 
 ##  About Me
 
