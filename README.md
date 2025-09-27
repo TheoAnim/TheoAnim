@@ -2,7 +2,7 @@ Hi there, I'm Theophilus Anim Bediako!
 
 ##  About Me
 
-I'm a PhD student in **Statistical Science** at [Baylor University](https://www.baylor.edu/), Waco, Texas. My research focuses on **Bayesian inference** , **clinical trials** and **statistical genomics**. I am working with [Professor James Stamey](https://statistics.artsandsciences.baylor.edu/person/dr-james-d-stamey) and Dr. Jackson Barth to develop Bayesian model selection methods for **under-reported and zero-inflated count data**. I have also worked with machine learning methods for clustering and classification.
+I'm a PhD student in **Statistical Science** at [Baylor University](https://www.baylor.edu/), Waco, Texas. My research focuses on **Bayesian inference** and **clinical trials**. I am working with [Professor James Stamey](https://statistics.artsandsciences.baylor.edu/person/dr-james-d-stamey) and Dr. Jackson Barth to develop Bayesian model selection methods for **under-reported and zero-inflated count data**. I have also worked with machine learning methods for clustering and classification.
 
 <!--## 🏆 Achievements
 
