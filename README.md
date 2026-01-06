@@ -1,4 +1,5 @@
 Hi there, I'm Theophilus Anim Bediako! 
+![](https://komarev.com/ghpvc/?username=TheoAnim)
 
 ##  About Me
 
