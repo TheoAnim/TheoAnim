@@ -21,6 +21,9 @@ I'm a PhD student in **Statistical Science** at [Baylor University](https://www.
 
 ##  Featured Projects
 
+### [Digits Classification - ML  & Bayesian TDA](https://github.com/TheoAnim/TDA-Project/blob/main/ShapeOfDigits.pdf)
+We compare ML methods to Bayesian Topological Data Analytic methods in predicting numerical labels of handwritten digits.
+
 ### [Dry Beans Classification](https://github.com/TheoAnim/Dry-Beans-Classification)
 Classification and price prediction of dry beans using various machine learning methods. This project demonstrates the application of advanced clustering and classification methods to agricultural data.
 
